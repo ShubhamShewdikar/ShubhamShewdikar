@@ -7,7 +7,7 @@
 
 ![ShubhamShewdikar's github stats](https://github-readme-stats.vercel.app/api?username=ShubhamShewdikar&show_icons=true&count_private=true&theme=synthwave)-->
 
-<p>Welcome to my page! </br> I'm Shubham Shewdikar, Fullstack Python developer from <b>Pune, India</b> </p>
+<p>Welcome to my page! </br> I'm a Fullstack Python developer from <b>Pune, India</b> </p>
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/shubham-shewdikar-1b6b83152)
 
