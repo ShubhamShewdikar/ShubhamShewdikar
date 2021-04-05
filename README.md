@@ -36,7 +36,7 @@ Database:
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" /></br>
 
-<p> AWS Services: <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<p> AWS Services: <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/></br>
     Serverless Framework: <img alt="Serverless Framework" src="https://img.shields.io/badge/serverless%20-%23E0234E.svg?&style=for-the-badge&logo=serverless&logoColor=white" />
 </p>
 
