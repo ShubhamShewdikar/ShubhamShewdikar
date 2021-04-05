@@ -11,7 +11,7 @@
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/shubham-shewdikar-1b6b83152)
 
-- :office: I’m currently working at <a href="https://geospoc.com/">Geospoc</a>
+- :office: I’m working at <a href="https://geospoc.com/">Geospoc</a>
 - 🌱 I’m currently building backend applications using Node and Python!!
 - 📫 About me: https://shubhamshewdikar.github.io/
 - ⚡ Fun fact: #msdian #akkian  
