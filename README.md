@@ -13,6 +13,6 @@
 {
     "name": "Shubham Shewdikar",
     "about_me": "https://shubhamshewdikar.github.io/",
-    "skills": ["Python", "Node.js", "NestJS", "Vue"]
+    "skills": ["Python", "Javascript"]
 }
 ```
